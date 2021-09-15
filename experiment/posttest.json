@@ -28,8 +28,8 @@
       "answers": {
         "a": "Hydrophobic and bind non-covalently to proteins",
         "b": "Hydrophobic and bind covalently to proteins",
-        "b": "Hydrophilic and bind non-covalently to proteins",
-        "b": "Hydrophilic and covalently to proteins"
+        "c": "Hydrophilic and bind non-covalently to proteins",
+        "d": "Hydrophilic and covalently to proteins"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -49,7 +49,7 @@
       "question": "5.FITC dye mainly used for labelling which of the following biomolecules : 1. Antigen 2.Antibody 3.Amino acids 4.Lectins",
       "answers": {
         "a": "1 only",
-        "b": "2and 3 only",
+        "b": "2 and 3 only",
         "c": "2 and 4 only",
         "d": "None of these"
       },

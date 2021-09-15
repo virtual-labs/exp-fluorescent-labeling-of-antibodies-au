@@ -20,8 +20,7 @@
 
 5. Sephadex G-100 resins : 250mg of gel filtration resin has been taken .From which  40mg should be added to a single spin column and  equilibrated with provided PBS Buffer solution.
 
-    Fractionation range (MW) for sephadex G-100 :   4000-10000 for globular proteins
-    Fractionation range (MW) for sephadex G-100 :   1000-10000 for dextrans
+    Fractionation range (MW) for sephadex G-100 :   4000-10000 for globular proteins and  1000-10000 for dextrans
 
  
 

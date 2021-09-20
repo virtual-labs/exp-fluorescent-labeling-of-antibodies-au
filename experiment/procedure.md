@@ -1,7 +1,4 @@
-## Materials Required
-
-
-&nbsp;
+#### Materials Required
 
 
 1. FITC : 500µg of fluorescein isothiocyanate reactive dye has been taken and added to 5 vials each.To which 50µl of anhydrous DMSO(Dimethyl sulfoxide)  has been  added and gives the reactive dye at a concentration of 10mg/ml in each vial.
@@ -38,13 +35,12 @@ All the contents should be stored at 4°C. Protect reactive dye from light. Also
 
  
 
-## PROCEDURE
+### PROCEDURE
  
 
-&nbsp;
 
 
-### 1. ANTIBODY/PROTEIN PREPARATION
+#### 1. ANTIBODY/PROTEIN PREPARATION
  
 
 1. The purified antibody or protein , buffer solutions and the reagents needed for the experiment are placed in a refrigerator.
@@ -62,7 +58,7 @@ All the contents should be stored at 4°C. Protect reactive dye from light. Also
 &nbsp;
 
 
-### 2. Dialysis of Antibodies
+#### 2. Dialysis of Antibodies
 
  
 
@@ -90,7 +86,7 @@ All the contents should be stored at 4°C. Protect reactive dye from light. Also
 &nbsp;
 
 
-### 3. SPIN COLUMN PREPARATION
+#### 3. SPIN COLUMN PREPARATION
  
 
 1. Weigh 40mg Sephadex G-100 resin and added to an empty spin column.
@@ -126,7 +122,7 @@ All the contents should be stored at 4°C. Protect reactive dye from light. Also
 &nbsp;
 
 
-### 4. DETERMINING DEGREE OF LABELLING
+#### 4. DETERMINING DEGREE OF LABELLING
  
 1. Fill the cuvette using 1X PBS Buffer with 2mM sodium azide  and used as spectrophotometric blank.
  
@@ -147,10 +143,9 @@ All the contents should be stored at 4°C. Protect reactive dye from light. Also
 
  
 
-## RESULT
+### RESULT
  
 
-&nbsp;
 
 
 The absorbance of FITC-Protein conjugate at 280nm = ………….
@@ -163,14 +158,14 @@ The absorbance of FITC-Protein conjugate at 495nm = ………….
 
 
 
-## CALCULATION
+#### CALCULATION
  
 
 **1.The amount of FITC dye required for conjugation reaction:**
  
  
 
-&nbsp;
+
 
 <img src="images/2.jpg" title=""/>
  
@@ -197,7 +192,7 @@ The following MRs are recommended, the number in parentheses being a second MR t
  
 
   
-&nbsp;
+
 
 <img src="images/3.jpg" title=""/>
 
@@ -221,7 +216,7 @@ c=concentration is in moles/liter.
 **Concentration of protein**
 
  
-&nbsp;
+
 
 <img src="images/5.jpg" title=""/> 
 
@@ -245,8 +240,6 @@ For most IgGs, ε = 203,000cm-1M-1
 **Concentration of FITC dye**
 
  
-&nbsp;
-
 <img src="images/7.png" title=""/> 
 
                                               

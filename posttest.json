@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Antibodies can be labelled with FITC through which of the following residue :",
+      "answers": {
+        "a": "Valine",
+        "b": "Lysine",
+        "c": "Histidine",
+        "d": "Glycine"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Which is the buffer that we used in this experiment for the dialysis of antibodies:",
+      "answers": {
+        "a": "PBS Buffer",
+        "b": "Sodium bicarbonate Buffer",
+        "c": "Sodium acetate Buffer",
+        "d": "Sodium citrate Buffer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Flourescent Dyes are :",
+      "answers": {
+        "a": "Hydrophobic and bind non-covalently to proteins",
+        "b": "Hydrophobic and bind covalently to proteins",
+        "c": "Hydrophilic and bind non-covalently to proteins",
+        "d": "Hydrophilic and covalently to proteins"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Absorbance used to determine the protein concentration in sample is :",
+      "answers": {
+        "a": "210 nm",
+        "b": "280 nm",
+        "c": "600 nm",
+        "d": "480 nm"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.FITC dye mainly used for labelling which of the following biomolecules : 1. Antigen 2.Antibody 3.Amino acids 4.Lectins",
+      "answers": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "2 and 4 only",
+        "d": "None of these"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

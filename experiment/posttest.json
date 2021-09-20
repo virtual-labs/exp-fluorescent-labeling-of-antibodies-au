@@ -2,35 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Antibodies can be labelled with FITC through which of the following residue :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Valine",
+        "b": "Lysine",
+        "c": "Histidine",
+        "d": "Glycine"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Which is the buffer that we used in this experiment for the dialysis of antibodies:",
+      "answers": {
+        "a": "PBS Buffer",
+        "b": "Sodium bicarbonate Buffer",
+        "c": "Sodium acetate Buffer",
+        "d": "Sodium citrate Buffer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3.Flourescent Dyes are :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Hydrophobic and bind non-covalently to proteins",
+        "b": "Hydrophobic and bind covalently to proteins",
+        "c": "Hydrophilic and bind non-covalently to proteins",
+        "d": "Hydrophilic and covalently to proteins"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Absorbance used to determine the protein concentration in sample is :",
+      "answers": {
+        "a": "210 nm",
+        "b": "280 nm",
+        "c": "600 nm",
+        "d": "480 nm"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.FITC dye mainly used for labelling which of the following biomolecules : 1. Antigen 2.Antibody 3.Amino acids 4.Lectins",
+      "answers": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "2 and 4 only",
+        "d": "None of these"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

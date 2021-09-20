@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.The molecular weight of FITC dye was :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "398",
+        "b": "498",
+        "c": "389",
+        "d": "250"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Stoke effect is reffered to as :",
+      "answers": {
+        "a": "The separation of the excitation wavelength maximum and the emission wavelength maximum.",
+        "b": "The separation of the excitation wavelength maximum and the emission wavelength minimum.",
+        "c": "The separation of the excitation wavelength minimum and the emission wavelength minimum.",
+        "d": "The separation of the excitation wavelength minimum and the emission wavelength maximum."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3.FITC dye have two isomers.ie Isomer I and isomer II. Isomer I was different from isomer II by :",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thiocyanate group on the 4th carbon of benzene ring",
+        "b": "Thiocyanate group on the 3rd carbon of benzene ring",
+        "c": "Thiocyanate group on the 5th carbon of benzene ring",
+        "d": "Thiocyanate group on the 6th carbon of benzene ring"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.Isomer II was different from isomer I by :",
+      "answers": {
+        "a": "Thiocyanate group on the 4th carbon of benzene ring",
+        "b": "Thiocyanate group on the 3rd carbon of benzene ring",
+        "c": "Thiocyanate group on the 5th carbon of benzene ring",
+        "d": "Thiocyanate group on the 6th carbon of benzene ring"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.PBS Buffer is used because it is :",
+      "answers": {
+        "a": "isotonic in nature",
+        "b": "non-toxic to cells",
+        "c": "Dilute the biomolecules",
+        "d": "All the above"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
